@@ -1,0 +1,18 @@
+{
+    "name": "arturmazanik/sail8.1-with-ubuntu20-without-pgsl",
+    "description": "Sail 8.1 with ubuntu 20.04 without PostgresSQL",
+    "version": "1.0.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artur Mazanik",
+            "email": "mazanik.artur@ya.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/contracts": "^8.0|^9.0",
+        "illuminate/console": "^8.0|^9.0",
+        "illuminate/support": "^8.0|^9.0"
+    }
+}
