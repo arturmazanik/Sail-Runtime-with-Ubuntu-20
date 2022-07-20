@@ -12,3 +12,9 @@
 ```
   context: ./vendor/arturmazanik/sail8.1-with-ubuntu20-without-pgsl/runtimes/8.1
 ```
+
+### OR for local env
+
+```
+    context: ./vendor/arturmazanik/sail8.1-with-ubuntu20-without-pgsl/runtimes/8.1-local
+```
