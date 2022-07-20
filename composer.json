@@ -1,7 +1,7 @@
 {
     "name": "arturmazanik/sail8.1-with-ubuntu20-without-pgsl",
     "description": "Sail 8.1 with ubuntu 20.04 without PostgresSQL",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": "MIT",
     "authors": [
         {
